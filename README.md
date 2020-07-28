@@ -1,8 +1,15 @@
 # AstroWebMaps
 OpenLayers 4.x for planetary mapping
 
+This library provides a method to run Openlayers 4 with planetary mapping conversions,
+it is used in PILOT (pilot.wr.usgs.gov) and Astropedia (astrogeology.usgs.gov/search).
 
-This library provides a method to run Openlayers 4 with planetary mapping conversions. This library is used in PILOT (pilot.wr.usgs.gov) and Astropedia (astrogeology.usgs.gov/search). An example on how to run the code is under the test directory. A single and/or minified version of the library can be built using the Makefile. The good stuff resides on under the js directory. Quick description:
+An example on how to run the code is under the [test](test/) directory. 
+
+A single and/or minified version of the library can be built using the Makefile.
+The good stuff resides on under the js directory.
+
+Quick description:
 
 * js/openlayers - a version of openlayers https://openlayers.org/
 * js/astrowebmaps - source code
